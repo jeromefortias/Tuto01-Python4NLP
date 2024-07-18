@@ -1,0 +1,9 @@
+# my RNN config file
+elasticsearch : 192.168.1.38:9200
+name : RNN-TRA-TEST
+epochs : 100
+dataset_location : D:\Nexai.net.datasets\fra-eng.txt
+model_location : D:\Nexai.net.models
+model_name : TRAENGFR
+url : 127.0.0.1
+port : 81
